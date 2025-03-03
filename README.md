@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Senuji Weerasinghe!  
+### 👋 Hi, I’m Senuji Weerasekara!  
 I'm a second-year **Software Engineering** student at the **University of Westminster**.  
 
 ### 👀 Interests  
